@@ -1,0 +1,128 @@
+{
+  "title": "G-Tech Soluções Digitais",
+  "hero": {
+    "title": {
+      "line1": "Mais que tecnologia:",
+      "line2": "Soluções que transformam"
+    },
+    "subtitle": "Tecnologia prática e criativa para fazer seu negócio crescer.",
+    "button": "Explorar serviços"
+  },
+  "header": {
+    "quemSomos": "Quem Somos",
+    "servicos": "Serviços",
+    "contato": "Contato",
+    "privacidade": "Privacidade",
+    "botao": "Fale Agora"
+  },
+  "footer": {
+    "direitos": "Todos os direitos reservados.",
+    "privacidade": "Termos de Uso e Política de Privacidade"
+  },
+  "privacy": {
+  "title": "Termos de Uso e Política de Privacidade",
+  "termTitle": "Termos de Uso – G-Tech Soluções Digitais",
+  "term1": "Ao acessar e utilizar o site da G-Tech Soluções Digitais, você concorda integralmente com os termos e condições descritos abaixo. O conteúdo disponibilizado neste site é protegido por direitos autorais e de propriedade intelectual, sendo de uso exclusivo da G-Tech Soluções Digitais. É proibida a reprodução, distribuição ou modificação de qualquer parte deste conteúdo sem autorização prévia e expressa.",
+  "term2": "Os serviços, produtos e informações apresentados neste site têm caráter meramente informativo e podem sofrer alterações a qualquer momento, sem aviso prévio. A G-Tech Soluções Digitais não se responsabiliza por eventuais danos ou prejuízos decorrentes do uso indevido das informações aqui contidas ou por falhas técnicas e indisponibilidade temporária do site.",
+  "policyTitle": "Política de Privacidade – G-Tech Soluções Digitais",
+  "policy1": "A G-Tech Soluções Digitais respeita a sua privacidade e está comprometida com a proteção dos dados pessoais de seus usuários, em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 – LGPD). Coletamos apenas as informações estritamente necessárias para melhorar sua experiência em nosso site, atender às solicitações de contato e oferecer nossos serviços com qualidade.",
+  "policy2": "Os dados pessoais coletados podem incluir nome, e-mail, telefone, empresa e outras informações fornecidas voluntariamente por você por meio de formulários. Eles são utilizados exclusivamente para responder solicitações, melhorar nossos serviços e enviar comunicações relevantes (quando autorizado). Todas as informações são armazenadas de forma segura e protegidas contra acesso não autorizado.",
+  "policy3": "A G-Tech Soluções Digitais não compartilha, vende ou cede seus dados pessoais a terceiros, salvo quando exigido por lei, regulamento, decisão judicial ou quando necessário para o cumprimento de obrigações legais ou contratuais.",
+  "policy4": "Utilizamos cookies e ferramentas de análise de navegação para entender melhor o comportamento dos usuários no site e otimizar sua experiência. Você pode desativar os cookies nas configurações do seu navegador, mas algumas funcionalidades podem ser afetadas.",
+  "policy5": "Nos termos da LGPD, você pode solicitar, a qualquer momento: acesso, revisão, atualização ou exclusão de seus dados pessoais, salvo nos casos em que houver obrigação legal de mantê-los. Para exercer seus direitos, entre em contato pelos canais disponibilizados em nosso site."
+},
+  "about": {
+    "quemSomos": {
+      "titulo": "Quem Somos",
+      "texto": "A G-Tech Soluções Digitais sou eu, Gilberto Silva, desenvolvedor apaixonado por tecnologia e inovação. Trabalho sozinho, mas com a dedicação de quem veste a camisa de cada projeto. Meu objetivo é criar sites, sistemas e soluções digitais sob medida, com foco no que realmente importa: O crescimento e o sucesso dos meus clientes. Na G-Tech, cada linha de código é feita com atenção e carinho, unindo design moderno e performance. Mais do que entregar um serviço, eu entrego o meu melhor em cada detalhe, garantindo que cada projeto tenha identidade, funcionalidade e impacto."
+    },
+    "missao": {
+      "titulo": "Missão",
+      "texto": "Oferecer soluções digitais personalizadas e acessíveis, ajudando pessoas e empresas a se destacarem no mundo online, sempre com dedicação e atenção aos detalhes."
+    },
+    "visao": {
+      "titulo": "Visão",
+      "texto": "Ser reconhecido como referência em soluções digitais criativas e eficientes, mostrando que até uma equipe de uma pessoa pode entregar grandes resultados."
+    },
+    "valores": {
+      "titulo": "Valores",
+      "itens": [
+        "Compromisso: cada projeto é tratado como único.",
+        "Transparência: comunicação clara e honesta em todas as etapas.",
+        "Qualidade: foco em entregar soluções modernas e funcionais.",
+        "Evolução constante: sempre aprendendo novas tecnologias e tendências.",
+        "Proximidade com o cliente: escutar, entender e criar de acordo com as necessidades reais."
+      ]
+    }
+  },
+  "contact": {
+    "titulo": "Transforme sua ideia em realidade digital!",
+    "email": "E-mail",
+    "endereco": "Endereço: Belo Horizonte – MG",
+    "form": {
+      "nome": "Nome completo",
+      "email": "E-mail",
+      "whats": "Telefone / WhatsApp",
+      "cargo": "Cargo / Função",
+      "segmento": "Qual o Segmento?",
+      "porte": "Porte da Empresa",
+      "objetivo": "Qual o maior desafio ou objetivo em tecnologia atualmente?",
+      "botao": "Enviar mensagem",
+      "sucesso": "Mensagem enviada com sucesso! Obrigado."
+    }
+  },
+  "services": {
+    "titulo": "Serviços",
+    "lista": [
+      {
+        "title": "Desenvolvimento de Sistemas",
+        "bullets": [
+          "Sistemas sob medida",
+          "Integrações com APIs",
+          "Automação de processos"
+        ]
+      },
+      {
+        "title": "Instalação de Sistemas Operacionais",
+        "bullets": [
+          "Windows e Linux",
+          "Helpdesk remoto",
+          "Suporte técnico"
+        ]
+      },
+      {
+        "title": "Consultoria em TI",
+        "bullets": [
+          "Diagnóstico digital",
+          "Planejamento estratégico",
+          "Adoção de novas tecnologias"
+        ]
+      },
+      {
+        "title": "Artes para Mídias Sociais",
+        "bullets": [
+          "Criação de conteúdo visual",
+          "Calendário editorial",
+          "Criação de Logos e Banners"
+        ]
+      },
+      {
+        "title": "Sites e Aplicações Web",
+        "bullets": [
+          "Sites institucionais",
+          "Landing pages",
+          "Hospedagem e manutenção"
+        ]
+      }
+    ]
+  },
+  "consent": {
+    "titulo": "Termos de Responsabilidade",
+    "texto": "Ao continuar navegando, você concorda com os Termos de Uso e a Política de Privacidade.",
+    "aceitar": "Aceitar"
+  }
+
+      
+    }
+  
+

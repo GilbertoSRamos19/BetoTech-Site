@@ -1,0 +1,29 @@
+{
+  "name": "g-tech-pages",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "chmod +x ./node_modules/.bin/vite && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@flaticon/flaticon-uicons": "^3.3.1",
+    "emailjs-com": "^3.2.0",
+    "framer-motion": "^12.23.0",
+    "i18next": "^25.3.1",
+    "i18next-browser-languagedetector": "^8.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^15.6.0",
+    "react-router-dom": "^7.6.3",
+    "swiper": "^11.2.10"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.4.1",
+    "vite": "^7.0.3"
+  }
+}

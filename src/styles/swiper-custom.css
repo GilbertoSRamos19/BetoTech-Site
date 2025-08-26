@@ -1,0 +1,40 @@
+/* src/styles/swiper-custom.css */
+
+/* Estilos para as setas de navegação (próximo/anterior) */
+.swiper-button-next,
+.swiper-button-prev {
+  /* Define o tamanho da seta. Ajuste este valor se precisar. */
+  --swiper-navigation-size: 30px; 
+  /* Cor da seta (branco, para destacar em fundos escuros). */
+  color: #0a0a0a; 
+  /* Torna as setas completamente invisíveis por padrão. */
+  opacity: 0; 
+  /* Adiciona uma transição suave para quando a opacidade mudar, criando um efeito de fade. */
+  transition: opacity 0.3s ease;
+}
+
+/* Garante que o ícone interno da seta também siga o novo tamanho. */
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: var(--swiper-navigation-size);
+}
+
+/* Regra principal: torna as setas visíveis (opacidade total) quando o mouse está sobre o carrossel.
+   Usamos as classes 'mySwiper' e 'myCasesSwiper' que você já tem nos seus componentes. */
+.mySwiper:hover .swiper-button-next,
+.mySwiper:hover .swiper-button-prev,
+.myCasesSwiper:hover .swiper-button-next,
+.myCasesSwiper:hover .swiper-button-prev {
+  opacity: 1; /* A seta fica totalmente visível ao passar o mouse. */
+}
+
+/* Estilos para a paginação (as "bolinhas" na parte inferior do carrossel) */
+.swiper-pagination-bullet {
+  background-color: #5e5c5c; /* Cor das bolinhas inativas (branco). */
+  opacity: 0.5; /* Transparência para as bolinhas inativas. */
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #f80e05; /* Cor da bolinha ativa (branco sólido). */
+  opacity: 1; /* Sem transparência para a bolinha que indica o slide atual. */
+}
