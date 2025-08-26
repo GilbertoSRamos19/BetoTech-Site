@@ -1,5 +1,5 @@
 {
-  "title": "G-Tech Digital Solutions",
+  "title": "BetoTech Digital Solutions",
   "hero": {
     "title": {
       "line1": "More than technology:",
@@ -13,7 +13,7 @@
     "servicos": "Services",
     "contato": "Contact",
     "privacidade": "Privacy",
-    "botao": "Talk Now"
+    "botao": "Chat now"
   },
   "footer": {
     "direitos": "All rights reserved.",
@@ -21,37 +21,37 @@
   },
   "privacy": {
     "title": "Terms of Use and Privacy Policy",
-    "termTitle": "Terms of Use – G-Tech Digital Solutions",
-    "term1": "By accessing and using the G-Tech Digital Solutions website, you fully agree to the terms and conditions described below. The content provided on this site is protected by copyright and intellectual property rights and is for the exclusive use of G-Tech Digital Solutions. Reproduction, distribution, or modification of any part of this content without prior and express authorization is prohibited.",
-    "term2": "The services, products, and information presented on this site are for informational purposes only and may be changed at any time without prior notice. G-Tech Digital Solutions is not responsible for any damages or losses arising from the improper use of the information contained herein or for technical failures and temporary unavailability of the site.",
-    "policyTitle": "Privacy Policy – G-Tech Digital Solutions",
-    "policy1": "G-Tech Digital Solutions respects your privacy and is committed to protecting the personal data of its users, in accordance with the Brazilian General Data Protection Law (Law No. 13.709/2018 – LGPD). We collect only the information strictly necessary to improve your experience on our website, respond to contact requests, and provide our services with quality.",
-    "policy2": "The personal data collected may include name, email, phone number, company, and other information voluntarily provided by you through forms. They are used exclusively to respond to requests, improve our services, and send relevant communications (when authorized). All information is stored securely and protected against unauthorized access.",
-    "policy3": "G-Tech Digital Solutions does not share, sell, or transfer your personal data to third parties, except when required by law, regulation, court decision, or when necessary to comply with legal or contractual obligations.",
-    "policy4": "We use cookies and navigation analysis tools to better understand user behavior on the site and optimize your experience. You can disable cookies in your browser settings, but some features may be affected.",
-    "policy5": "Under the LGPD, you may request at any time: access, review, update, or deletion of your personal data, except in cases where there is a legal obligation to retain them. To exercise your rights, please contact us through the channels provided on our website."
+    "termTitle": "Terms of Use – BetoTech Digital Solutions",
+    "term1": "By accessing and using the BetoTech Digital Solutions website, you fully agree to the terms and conditions described below. The content made available on this site is protected by copyright and intellectual property rights, and is for the exclusive use of BetoTech Digital Solutions. Reproduction, distribution, or modification of any part of this content without prior and express authorization is prohibited.",
+    "term2": "The services, products, and information presented on this site are for informational purposes only and may be changed at any time without prior notice. BetoTech Digital Solutions is not responsible for any damages or losses resulting from misuse of the information contained herein or for technical failures and temporary unavailability of the site.",
+    "policyTitle": "Privacy Policy – BetoTech Digital Solutions",
+    "policy1": "BetoTech Digital Solutions respects your privacy and is committed to protecting the personal data of its users, in accordance with the General Data Protection Law (Law No. 13.709/2018 – LGPD). We collect only the information strictly necessary to improve your experience on our site, respond to contact requests, and offer our services with quality.",
+    "policy2": "The personal data collected may include name, email, phone number, company, and other information voluntarily provided by you through forms. They are used exclusively to respond to requests, improve our services, and send relevant communications (when authorized). All information is securely stored and protected against unauthorized access.",
+    "policy3": "BetoTech Digital Solutions does not share, sell, or transfer your personal data to third parties, except when required by law, regulation, court decision, or when necessary to fulfill legal or contractual obligations.",
+    "policy4": "We use cookies and browsing analysis tools to better understand user behavior on the site and optimize your experience. You can disable cookies in your browser settings, but some features may be affected.",
+    "policy5": "Under the LGPD, you may request, at any time: access, review, update, or deletion of your personal data, except in cases where there is a legal obligation to retain them. To exercise your rights, contact us through the channels provided on our site."
   },
   "about": {
     "quemSomos": {
       "titulo": "About Us",
-      "texto": "G-Tech Digital Solutions is me, Gilberto Silva, a developer passionate about technology and innovation. I work alone but with the dedication of someone who puts their heart into every project. My goal is to create websites, systems, and custom digital solutions focused on what really matters: the growth and success of my clients. At G-Tech, every line of code is crafted with care and attention, combining modern design with performance. More than just delivering a service, I give my best in every detail, ensuring each project has identity, functionality, and impact."
+      "texto": "BetoTech Digital Solutions is me, Gilberto Silva, a developer passionate about technology and innovation. I work alone, but with the dedication of someone who wears the jersey for every project. My goal is to create websites, systems, and custom digital solutions focused on what truly matters: the growth and success of my clients. At BetoTech, every line of code is crafted with care and attention, combining modern design and performance. More than delivering a service, I give my best in every detail, ensuring each project has identity, functionality, and impact."
     },
     "missao": {
       "titulo": "Mission",
-      "texto": "To offer personalized and affordable digital solutions, helping people and businesses stand out online, always with dedication and attention to detail."
+      "texto": "To offer personalized and accessible digital solutions, helping individuals and businesses stand out online, always with dedication and attention to detail."
     },
     "visao": {
       "titulo": "Vision",
-      "texto": "To be recognized as a reference in creative and efficient digital solutions, showing that even a one-person team can deliver great results."
+      "texto": "To be recognized as a reference in creative and efficient digital solutions, showing that even one person can deliver great results."
     },
     "valores": {
       "titulo": "Values",
       "itens": [
-        "Commitment: each project is treated as unique.",
-        "Transparency: clear and honest communication at every stage.",
-        "Quality: focus on delivering modern and functional solutions.",
-        "Continuous growth: always learning new technologies and trends.",
-        "Closeness with clients: listening, understanding, and creating according to real needs."
+        "Commitment: Every project is treated as unique.",
+        "Transparency: Clear and honest communication at every stage.",
+        "Quality: Focused on delivering modern and functional solutions.",
+        "Continuous Improvement: Always learning new technologies and trends.",
+        "Client Proximity: Listening, understanding, and creating according to real needs."
       ]
     }
   },
@@ -64,9 +64,9 @@
       "email": "Email",
       "whats": "Phone / WhatsApp",
       "cargo": "Position / Role",
-      "segmento": "What is your industry?",
+      "segmento": "What is your business sector?",
       "porte": "Company size",
-      "objetivo": "What is your biggest technology challenge or goal right now?",
+      "objetivo": "What is your biggest challenge or goal in technology today?",
       "botao": "Send message",
       "sucesso": "Message sent successfully! Thank you."
     }
@@ -75,7 +75,7 @@
     "titulo": "Services",
     "lista": [
       {
-        "title": "Systems Development",
+        "title": "System Development",
         "bullets": [
           "Custom systems",
           "API integrations",
@@ -101,7 +101,7 @@
       {
         "title": "Social Media Design",
         "bullets": [
-          "Visual content creation",
+          "Visual artwork creation",
           "Editorial calendar",
           "Logo and banner design"
         ]

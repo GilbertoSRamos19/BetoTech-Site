@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
-import logo from '../assets/g-tech.png';
+import logo from '../assets/betotech.png';
 
 export default function Header() {
   const { t } = useTranslation();

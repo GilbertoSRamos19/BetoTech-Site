@@ -22,7 +22,7 @@ export default function Footer() {
       transition={{ duration: 1.1, ease: 'easeOut' }}
     >
       <p>
-        &copy; {new Date().getFullYear()} G-Tech Soluções Digitais
+        &copy; {new Date().getFullYear()} BetoTech Soluções Digitais
       </p>
       <Link
         to="/privacidade"
