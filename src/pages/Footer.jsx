@@ -30,7 +30,7 @@ export default function Footer() {
         <p>&copy; {new Date().getFullYear()} BetoTech Soluções Digitais</p>
         <Link
           to="/privacidade"
-          className="inline-block mt-2 underline text-blue-500 hover:text-white transition"
+          className="inline-block mt-2 underline text-primary hover:text-white transition"
         >
           {t('footer.privacidade')}
         </Link>

@@ -35,7 +35,7 @@
   "contact": {
     "titulo": "Turn your idea into digital reality!",
     "email": "Email",
-    "endereco": "Address: Belo Horizonte – MG",
+    "endereco": "Address: Address: Belo Horizonte – Minas Gerais",
     "form": {
       "nome": "Full name",
       "email": "Email",
@@ -43,7 +43,7 @@
       "cargo": "Position / Role",
       "segmento": "What is your business segment?",
       "porte": "Company size",
-      "objetivo": "What is your biggest challenge or goal in technology today?",
+      "objetivo": "What solution are you looking for today? Tell me more",
       "botao": "Send message",
       "sucesso": "Message sent successfully! Thank you."
     }

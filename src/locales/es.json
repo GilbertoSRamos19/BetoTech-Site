@@ -35,7 +35,7 @@
   "contact": {
     "titulo": "¡Transforma tu idea en realidad digital!",
     "email": "Correo electrónico",
-    "endereco": "Dirección: Belo Horizonte – MG",
+    "endereco": "Dirección: Belo Horizonte – Minas Gerais",
     "form": {
       "nome": "Nombre completo",
       "email": "Correo electrónico",
@@ -43,7 +43,7 @@
       "cargo": "Cargo / Función",
       "segmento": "¿Cuál es el segmento?",
       "porte": "Tamaño de la empresa",
-      "objetivo": "¿Cuál es el mayor desafío u objetivo en tecnología actualmente?",
+      "objetivo": "¿Qué solución buscas hoy? Cuéntame más.",
       "botao": "Enviar mensaje",
       "sucesso": "¡Mensaje enviado con éxito! Gracias."
     }
