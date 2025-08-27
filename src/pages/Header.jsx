@@ -64,7 +64,6 @@ export default function Header() {
           className="md:hidden fixed top-16 left-0 w-full bg-black text-white px-6 pb-4 z-[9998] transition-all duration-300"
         >
           <ul className="flex flex-col gap-4 font-medium">
-            <li><a href="#quemsomos" onClick={closeMenu}>{t('header.quemSomos')}</a></li>
             <li><a href="#servicos" onClick={closeMenu}>{t('header.servicos')}</a></li>
             <li><a href="#contato" onClick={closeMenu}>{t('header.contato')}</a></li>
             <li><Link to="/privacidade" onClick={closeMenu}>{t('header.privacidade')}</Link></li>
