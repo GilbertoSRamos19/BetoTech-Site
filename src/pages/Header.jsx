@@ -44,7 +44,6 @@ export default function Header() {
 
         {/* Menu Desktop */}
         <ul className="hidden md:flex gap-6 font-medium text-white">
-          <li><a href="#quemsomos" className="hover:text-red-600">{t('header.quemSomos')}</a></li>
           <li><a href="#servicos" className="hover:text-red-600">{t('header.servicos')}</a></li>
           <li><a href="#contato" className="hover:text-red-600">{t('header.contato')}</a></li>
           <li><Link to="/privacidade" className="hover:text-red-600">{t('header.privacidade')}</Link></li>

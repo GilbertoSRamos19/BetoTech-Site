@@ -2,7 +2,6 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import Header from "./pages/Header";
 import Hero from "./pages/Hero";
-import About from "./pages/About";
 import Services from "./pages/Services";
 import Contact from "./pages/Contact";
 import Footer from "./pages/Footer";
@@ -19,7 +18,6 @@ function HomePage() {
       <Header />
       <main className="pt-20">
         <Hero />
-        <About />
         <Services />
         <Contact />
       </main>

@@ -31,30 +31,6 @@
   "policy4": "Utilizamos cookies e ferramentas de análise de navegação para entender melhor o comportamento dos usuários no site e otimizar sua experiência. Você pode desativar os cookies nas configurações do seu navegador, mas algumas funcionalidades podem ser afetadas.",
   "policy5": "Nos termos da LGPD, você pode solicitar, a qualquer momento: acesso, revisão, atualização ou exclusão de seus dados pessoais, salvo nos casos em que houver obrigação legal de mantê-los. Para exercer seus direitos, entre em contato pelos canais disponibilizados em nosso site."
 },
-  "about": {
-    "quemSomos": {
-      "titulo": "Quem Somos",
-      "texto": "A BetoTech Soluções Digitais sou eu, Gilberto Silva, desenvolvedor apaixonado por tecnologia e inovação. Trabalho sozinho, mas com a dedicação de quem veste a camisa de cada projeto. Meu objetivo é criar sites, sistemas e soluções digitais sob medida, com foco no que realmente importa: O crescimento e o sucesso dos meus clientes. Na BetoTech, cada linha de código é feita com atenção e carinho, unindo design moderno e performance. Mais do que entregar um serviço, eu entrego o meu melhor em cada detalhe, garantindo que cada projeto tenha identidade, funcionalidade e impacto."
-    },
-    "missao": {
-      "titulo": "Missão",
-      "texto": "Oferecer soluções digitais personalizadas e acessíveis, ajudando pessoas e empresas a se destacarem no mundo online, sempre com dedicação e atenção aos detalhes."
-    },
-    "visao": {
-      "titulo": "Visão",
-      "texto": "Ser reconhecido como referência em soluções digitais criativas e eficientes, mostrando que até uma pessoa pode entregar grandes resultados."
-    },
-    "valores": {
-      "titulo": "Valores",
-      "itens": [
-        "Compromisso: Cada projeto é tratado como único.",
-        "Transparência: Comunicação clara e honesta em todas as etapas.",
-        "Qualidade: Foco em entregar soluções modernas e funcionais.",
-        "Evolução Constante: Sempre aprendendo novas tecnologias e tendências.",
-        "Proximidade com o Cliente: Escutar, entender e criar de acordo com as necessidades reais."
-      ]
-    }
-  },
   "contact": {
     "titulo": "Transforme sua ideia em realidade digital!",
     "email": "E-mail",
@@ -75,15 +51,13 @@
     "titulo": "Serviços",
     "lista": [
       {
-        "title": "Desenvolvimento de Sistemas",
         "bullets": [
           "Sistemas sob medida",
           "Integrações com APIs",
-          "Automação de processos"
+          "Automação de Tarefas"
         ]
       },
       {
-        "title": "Instalação de Sistemas Operacionais",
         "bullets": [
           "Windows e Linux",
           "Helpdesk remoto",
@@ -91,27 +65,24 @@
         ]
       },
       {
-        "title": "Consultoria em TI",
         "bullets": [
           "Diagnóstico digital",
-          "Planejamento estratégico",
-          "Adoção de novas tecnologias"
+          "Planejamento",
+          "Novas tecnologias"
         ]
       },
       {
-        "title": "Artes para Mídias Sociais",
         "bullets": [
           "Criação de Arte visual",
           "Calendário editorial",
-          "Criação de Logos e Banners"
+          "Logos e Banners"
         ]
       },
       {
-        "title": "Sites e Aplicações Web",
         "bullets": [
           "Sites institucionais",
           "Landing pages",
-          "Hospedagem e manutenção"
+          "Hospedagem e suporte"
         ]
       }
     ]
