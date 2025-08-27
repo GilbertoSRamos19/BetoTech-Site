@@ -18,7 +18,6 @@ export default function Hero() {
       setVideoSrc(e.matches ? mobileVideo : leaoVideo);
     };
 
-    // Listener inicial e nas mudanças
     updateVideo(mediaQuery);
     mediaQuery.addEventListener('change', updateVideo);
 
@@ -28,13 +27,14 @@ export default function Hero() {
   }, []);
 
   return (
-    <section className="relative h-screen flex flex-col items-center justify-center text-center text-black px-4 pt-16 overflow-hidden">
+    <section className="relative h-screen flex flex-col items-center justify-center text-center text-white px-4 pt-16 overflow-hidden">
       {/* Vídeo de fundo */}
       <video
         key={videoSrc}
         src={videoSrc}
         autoPlay
         muted
+        loop
         playsInline
         preload="auto"
         aria-hidden="true"
@@ -42,7 +42,7 @@ export default function Hero() {
       />
 
       {/* Overlay escuro */}
-      <div className="absolute top-0 left-0 w-full h-full bg-black/50 mix-blend-overlay pointer-events-none z-0" />
+      <div className="absolute top-0 left-0 w-full h-full bg-white mix-blend-overlay pointer-events-none z-0" />
 
       {/* Título */}
       <motion.h1
@@ -64,15 +64,30 @@ export default function Hero() {
         {t('hero.subtitle')}
       </motion.p>
 
-      {/* Botão */}
+      {/* Botão animado */}
       <motion.a
         href="#servicos"
-        className="mt-10 inline-block bg-red-600 text-black px-8 py-3 rounded-full font-semibold hover:bg-red-300 transition z-10"
+        className="mt-10 relative inline-block px-8 py-3 rounded-full font-semibold text-black overflow-hidden z-10"
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1.1, delay: 0.6 }}
       >
-        {t('hero.button')}
+        {/* Background animado */}
+        <motion.span
+          className="absolute inset-0 bg-white rounded-full z-0"
+          whileHover={{ scale: 1.1 }}
+          transition={{ duration: 0.3 }}
+        />
+
+        {/* Gradiente que aparece no hover */}
+        <motion.span
+          className="absolute inset-0 bg-gradient-to-r from-black via-red-500 to-pink-500 rounded-full opacity-0 z-10"
+          whileHover={{ opacity: 1 }}
+          transition={{ duration: 0.3 }}
+        />
+
+        {/* Texto do botão */}
+        <span className="relative z-20">{t('hero.button')}</span>
       </motion.a>
     </section>
   );

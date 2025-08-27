@@ -16,7 +16,7 @@ function HomePage() {
   return (
     <>
       <Header />
-      <main className="pt-20">
+      <main id="inicio" className="pt-20">
         <Hero />
         <Services />
         <Contact />

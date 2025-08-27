@@ -9,6 +9,7 @@
     "button": "Explore services"
   },
   "header": {
+    "inicio": "Home",
     "quemSomos": "About Us",
     "servicos": "Services",
     "contato": "Contact",
