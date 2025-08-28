@@ -34,7 +34,7 @@ export default function Header() {
       className="fixed top-0 w-full bg-black shadow z-[9999]"
       initial={{ opacity: 0, y: -20 }}
       animate={{ opacity: 1, y: 0 }}
-      transition={{ duration: 1.1, ease: 'easeOut' }}
+      transition={{ duration: 1.4, ease: 'easeOut' }}
     >
       <nav className="max-w-6xl mx-auto flex justify-between items-center px-6 py-4">
         {/* Logo */}

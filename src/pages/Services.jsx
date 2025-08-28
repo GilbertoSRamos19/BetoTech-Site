@@ -65,14 +65,17 @@ export default function Services() {
       className="py-24 px-4 sm:px-6 bg-black relative overflow-hidden"
     >
       <motion.h2
-        className="text-center font-bold text-white mb-12"
-        style={{ fontSize: 'clamp(1.5rem, 4vw, 2rem)' }}
+        className="text-center text-white mb-12"
+        style={{
+          fontSize: 'clamp(9rem, 5vw, 3rem)',
+          fontFamily: "'Great Vibes', cursive", // Fonte aplicada apenas aqui
+        }}
         initial={{ opacity: 0, y: -20 }}
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
-        transition={{ duration: 1.1 }}
+        transition={{ duration: 1.4 }}
       >
-        <i className="fi fi-sr-settings mr-2"></i> {t('services.titulo')}
+        {t('services.titulo')}
       </motion.h2>
 
       <div className="max-w-6xl mx-auto">
