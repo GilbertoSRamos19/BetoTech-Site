@@ -24,7 +24,7 @@ export default function Contact() {
     // Envia os dados pro EmailJS
     emailjs
       .send(
-        'g-tech', // substitua pelo seu ID do serviço
+        'BetoTech', // substitua pelo seu ID do serviço
         'template_suzur16', // substitua pelo ID do template
         {
           nome: formData.nome,
