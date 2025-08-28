@@ -67,7 +67,7 @@ export default function Services() {
       <motion.h2
         className="text-center text-white mb-12"
         style={{
-          fontSize: 'clamp(9rem, 5vw, 3rem)',
+          fontSize: 'clamp(6rem, 5vw, 3rem)',
           fontFamily: "'Great Vibes', cursive", // Fonte aplicada apenas aqui
         }}
         initial={{ opacity: 0, y: -20 }}
