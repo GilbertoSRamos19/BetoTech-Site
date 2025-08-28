@@ -9,7 +9,7 @@ export default function Footer() {
 
   return (
     <motion.footer
-      className="relative text-black text-center py-8 text-sm overflow-hidden"
+      className="relative text-white text-center py-9 text-sm overflow-hidden"
       initial={{ opacity: 0, y: 20 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, amount: 0.1 }}
@@ -30,7 +30,7 @@ export default function Footer() {
         <p>&copy; {new Date().getFullYear()} BetoTech Soluções Digitais</p>
         <Link
           to="/privacidade"
-          className="inline-block mt-2 underline text-primary hover:text-white transition"
+          className="inline-block mt-3 underline text-red-600 hover:text-white transition"
         >
           {t('footer.privacidade')}
         </Link>
